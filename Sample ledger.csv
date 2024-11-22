@@ -1,0 +1,1001 @@
+﻿Date,Effect,Account,Amount,Type,Transaction ID
+10/4/24,DEBIT,Inventory,7926.46,Asset,1002
+10/4/24,CREDIT,Accounts Receivable,7926.46,Asset,1003
+8/26/24,DEBIT,Accounts Payable,5909.73,Liability,1004
+8/26/24,CREDIT,Sales Revenue,5909.73,Asset,1005
+9/12/24,DEBIT,Cost of Goods Sold Expense,5117,Asset,1006
+9/12/24,CREDIT,Salaries Expense,5117,Asset,1007
+1/4/24,DEBIT,Salaries Payable,5180.27,Liability,1008
+1/4/24,CREDIT,Utilities Expense,5180.27,Asset,1009
+8/3/24,DEBIT,Common Stock,4500.49,Equity,1010
+8/3/24,CREDIT,Retained Earnings,4500.49,Equity,1011
+2/8/24,DEBIT,Cash,3278.39,Asset,1012
+2/8/24,CREDIT,Inventory,3278.39,Asset,1013
+7/23/24,DEBIT,Accounts Receivable,4069.79,Asset,1014
+7/23/24,CREDIT,Accounts Payable,4069.79,Liability,1015
+6/22/24,DEBIT,Sales Revenue,9188.06,Asset,1016
+6/22/24,CREDIT,Cost of Goods Sold Expense,9188.06,Asset,1017
+6/23/24,DEBIT,Salaries Expense,2598.5,Asset,1018
+6/23/24,CREDIT,Salaries Payable,2598.5,Liability,1019
+8/24/24,DEBIT,Utilities Expense,6398.22,Asset,1020
+8/24/24,CREDIT,Common Stock,6398.22,Equity,1021
+6/28/24,DEBIT,Retained Earnings,3685.96,Equity,1022
+6/28/24,CREDIT,Cash,3685.96,Asset,1023
+9/15/24,DEBIT,Inventory,304.09,Asset,1024
+9/15/24,CREDIT,Accounts Receivable,304.09,Asset,1025
+10/13/24,DEBIT,Accounts Payable,8191.53,Liability,1026
+10/13/24,CREDIT,Sales Revenue,8191.53,Asset,1027
+2/10/24,DEBIT,Cost of Goods Sold Expense,1668.58,Asset,1028
+2/10/24,CREDIT,Salaries Expense,1668.58,Asset,1029
+6/23/24,DEBIT,Salaries Payable,6637.86,Liability,1030
+6/23/24,CREDIT,Utilities Expense,6637.86,Asset,1031
+10/11/24,DEBIT,Common Stock,7361.59,Equity,1032
+10/11/24,CREDIT,Retained Earnings,7361.59,Equity,1033
+12/17/24,DEBIT,Cash,8361.02,Asset,1034
+12/17/24,CREDIT,Inventory,8361.02,Asset,1035
+6/21/24,DEBIT,Accounts Receivable,6526.32,Asset,1036
+6/21/24,CREDIT,Accounts Payable,6526.32,Liability,1037
+7/24/24,DEBIT,Sales Revenue,5180.88,Asset,1038
+7/24/24,CREDIT,Cost of Goods Sold Expense,5180.88,Asset,1039
+4/5/24,DEBIT,Salaries Expense,5463.91,Asset,1040
+4/5/24,CREDIT,Salaries Payable,5463.91,Liability,1041
+3/1/24,DEBIT,Utilities Expense,3797.49,Asset,1042
+3/1/24,CREDIT,Common Stock,3797.49,Equity,1043
+10/5/24,DEBIT,Retained Earnings,6609.12,Equity,1044
+10/5/24,CREDIT,Cash,6609.12,Asset,1045
+3/15/24,DEBIT,Inventory,5078.86,Asset,1046
+3/15/24,CREDIT,Accounts Receivable,5078.86,Asset,1047
+1/3/24,DEBIT,Accounts Payable,5826.94,Liability,1048
+1/3/24,CREDIT,Sales Revenue,5826.94,Asset,1049
+1/7/24,DEBIT,Cost of Goods Sold Expense,4979.49,Asset,1050
+1/7/24,CREDIT,Salaries Expense,4979.49,Asset,1051
+4/11/24,DEBIT,Salaries Payable,1645.07,Liability,1052
+4/11/24,CREDIT,Utilities Expense,1645.07,Asset,1053
+3/4/24,DEBIT,Common Stock,6065.16,Equity,1054
+3/4/24,CREDIT,Retained Earnings,6065.16,Equity,1055
+4/25/24,DEBIT,Cash,3882.84,Asset,1056
+4/25/24,CREDIT,Inventory,3882.84,Asset,1057
+12/24/24,DEBIT,Accounts Receivable,7365.66,Asset,1058
+12/24/24,CREDIT,Accounts Payable,7365.66,Liability,1059
+2/8/24,DEBIT,Sales Revenue,5820.31,Asset,1060
+2/8/24,CREDIT,Cost of Goods Sold Expense,5820.31,Asset,1061
+3/13/24,DEBIT,Salaries Expense,6230.27,Asset,1062
+3/13/24,CREDIT,Salaries Payable,6230.27,Liability,1063
+2/18/24,DEBIT,Utilities Expense,9988.68,Asset,1064
+2/18/24,CREDIT,Common Stock,9988.68,Equity,1065
+11/27/24,DEBIT,Retained Earnings,5259.3,Equity,1066
+11/27/24,CREDIT,Cash,5259.3,Asset,1067
+4/25/24,DEBIT,Inventory,4228.5,Asset,1068
+4/25/24,CREDIT,Accounts Receivable,4228.5,Asset,1069
+12/27/24,DEBIT,Accounts Payable,7172.47,Liability,1070
+12/27/24,CREDIT,Sales Revenue,7172.47,Asset,1071
+3/13/24,DEBIT,Cost of Goods Sold Expense,8511.13,Asset,1072
+3/13/24,CREDIT,Salaries Expense,8511.13,Asset,1073
+9/2/24,DEBIT,Salaries Payable,5345.46,Liability,1074
+9/2/24,CREDIT,Utilities Expense,5345.46,Asset,1075
+8/17/24,DEBIT,Common Stock,8642.93,Equity,1076
+8/17/24,CREDIT,Retained Earnings,8642.93,Equity,1077
+2/8/24,DEBIT,Cash,6475.03,Asset,1078
+2/8/24,CREDIT,Inventory,6475.03,Asset,1079
+12/10/24,DEBIT,Accounts Receivable,6813.72,Asset,1080
+12/10/24,CREDIT,Accounts Payable,6813.72,Liability,1081
+10/15/24,DEBIT,Sales Revenue,7925.62,Asset,1082
+10/15/24,CREDIT,Cost of Goods Sold Expense,7925.62,Asset,1083
+5/25/24,DEBIT,Salaries Expense,398.84,Asset,1084
+5/25/24,CREDIT,Salaries Payable,398.84,Liability,1085
+12/14/24,DEBIT,Utilities Expense,1353.42,Asset,1086
+12/14/24,CREDIT,Common Stock,1353.42,Equity,1087
+7/4/24,DEBIT,Retained Earnings,8610.26,Equity,1088
+7/4/24,CREDIT,Cash,8610.26,Asset,1089
+3/5/24,DEBIT,Inventory,6113.78,Asset,1090
+3/5/24,CREDIT,Accounts Receivable,6113.78,Asset,1091
+3/10/24,DEBIT,Accounts Payable,8041.09,Liability,1092
+3/10/24,CREDIT,Sales Revenue,8041.09,Asset,1093
+4/17/24,DEBIT,Cost of Goods Sold Expense,4059.43,Asset,1094
+4/17/24,CREDIT,Salaries Expense,4059.43,Asset,1095
+11/10/24,DEBIT,Salaries Payable,4796.11,Liability,1096
+11/10/24,CREDIT,Utilities Expense,4796.11,Asset,1097
+12/28/24,DEBIT,Common Stock,2158.23,Equity,1098
+12/28/24,CREDIT,Retained Earnings,2158.23,Equity,1099
+12/4/24,DEBIT,Cash,2766.69,Asset,1100
+12/4/24,CREDIT,Inventory,2766.69,Asset,1101
+5/13/24,DEBIT,Accounts Receivable,4572.46,Asset,1102
+5/13/24,CREDIT,Accounts Payable,4572.46,Liability,1103
+10/21/24,DEBIT,Sales Revenue,8662.43,Asset,1104
+10/21/24,CREDIT,Cost of Goods Sold Expense,8662.43,Asset,1105
+4/5/24,DEBIT,Salaries Expense,2806.82,Asset,1106
+4/5/24,CREDIT,Salaries Payable,2806.82,Liability,1107
+7/25/24,DEBIT,Utilities Expense,4591.45,Asset,1108
+7/25/24,CREDIT,Common Stock,4591.45,Equity,1109
+7/4/24,DEBIT,Retained Earnings,918.21,Equity,1110
+7/4/24,CREDIT,Cash,918.21,Asset,1111
+4/2/24,DEBIT,Inventory,8327.7,Asset,1112
+4/2/24,CREDIT,Accounts Receivable,8327.7,Asset,1113
+10/20/24,DEBIT,Accounts Payable,173.51,Liability,1114
+10/20/24,CREDIT,Sales Revenue,173.51,Asset,1115
+10/20/24,DEBIT,Cost of Goods Sold Expense,1018.68,Asset,1116
+10/20/24,CREDIT,Salaries Expense,1018.68,Asset,1117
+7/13/24,DEBIT,Salaries Payable,6928.65,Liability,1118
+7/13/24,CREDIT,Utilities Expense,6928.65,Asset,1119
+9/1/24,DEBIT,Common Stock,6531.47,Equity,1120
+9/1/24,CREDIT,Retained Earnings,6531.47,Equity,1121
+5/8/24,DEBIT,Cash,8166.45,Asset,1122
+5/8/24,CREDIT,Inventory,8166.45,Asset,1123
+1/11/24,DEBIT,Accounts Receivable,6167.9,Asset,1124
+1/11/24,CREDIT,Accounts Payable,6167.9,Liability,1125
+4/23/24,DEBIT,Sales Revenue,6224.23,Asset,1126
+4/23/24,CREDIT,Cost of Goods Sold Expense,6224.23,Asset,1127
+11/18/24,DEBIT,Salaries Expense,5218.02,Asset,1128
+11/18/24,CREDIT,Salaries Payable,5218.02,Liability,1129
+9/21/24,DEBIT,Utilities Expense,8290.86,Asset,1130
+9/21/24,CREDIT,Common Stock,8290.86,Equity,1131
+1/11/24,DEBIT,Retained Earnings,7290.15,Equity,1132
+1/11/24,CREDIT,Cash,7290.15,Asset,1133
+2/28/24,DEBIT,Inventory,878.06,Asset,1134
+2/28/24,CREDIT,Accounts Receivable,878.06,Asset,1135
+5/9/24,DEBIT,Accounts Payable,8672.59,Liability,1136
+5/9/24,CREDIT,Sales Revenue,8672.59,Asset,1137
+12/13/24,DEBIT,Cost of Goods Sold Expense,1528.71,Asset,1138
+12/13/24,CREDIT,Salaries Expense,1528.71,Asset,1139
+9/4/24,DEBIT,Salaries Payable,3259.97,Liability,1140
+9/4/24,CREDIT,Utilities Expense,3259.97,Asset,1141
+10/9/24,DEBIT,Common Stock,778.51,Equity,1142
+10/9/24,CREDIT,Retained Earnings,778.51,Equity,1143
+6/20/24,DEBIT,Cash,7041.12,Asset,1144
+6/20/24,CREDIT,Inventory,7041.12,Asset,1145
+9/28/24,DEBIT,Accounts Receivable,3048.84,Asset,1146
+9/28/24,CREDIT,Accounts Payable,3048.84,Liability,1147
+8/12/24,DEBIT,Sales Revenue,1981.11,Asset,1148
+8/12/24,CREDIT,Cost of Goods Sold Expense,1981.11,Asset,1149
+11/24/24,DEBIT,Salaries Expense,9226.81,Asset,1150
+11/24/24,CREDIT,Salaries Payable,9226.81,Liability,1151
+10/11/24,DEBIT,Utilities Expense,690.7,Asset,1152
+10/11/24,CREDIT,Common Stock,690.7,Equity,1153
+8/28/24,DEBIT,Retained Earnings,5254.56,Equity,1154
+8/28/24,CREDIT,Cash,5254.56,Asset,1155
+12/28/24,DEBIT,Inventory,4357,Asset,1156
+12/28/24,CREDIT,Accounts Receivable,4357,Asset,1157
+3/10/24,DEBIT,Accounts Payable,1219.4,Liability,1158
+3/10/24,CREDIT,Sales Revenue,1219.4,Asset,1159
+12/12/24,DEBIT,Cost of Goods Sold Expense,7963.42,Asset,1160
+12/12/24,CREDIT,Salaries Expense,7963.42,Asset,1161
+1/6/24,DEBIT,Salaries Payable,182.92,Liability,1162
+1/6/24,CREDIT,Utilities Expense,182.92,Asset,1163
+6/15/24,DEBIT,Common Stock,4618.69,Equity,1164
+6/15/24,CREDIT,Retained Earnings,4618.69,Equity,1165
+2/24/24,DEBIT,Cash,189.86,Asset,1166
+2/24/24,CREDIT,Inventory,189.86,Asset,1167
+8/12/24,DEBIT,Accounts Receivable,7116.62,Asset,1168
+8/12/24,CREDIT,Accounts Payable,7116.62,Liability,1169
+4/14/24,DEBIT,Sales Revenue,9728.59,Asset,1170
+4/14/24,CREDIT,Cost of Goods Sold Expense,9728.59,Asset,1171
+8/12/24,DEBIT,Salaries Expense,763.26,Asset,1172
+8/12/24,CREDIT,Salaries Payable,763.26,Liability,1173
+1/9/24,DEBIT,Utilities Expense,4854.71,Asset,1174
+1/9/24,CREDIT,Common Stock,4854.71,Equity,1175
+8/8/24,DEBIT,Retained Earnings,2827.54,Equity,1176
+8/8/24,CREDIT,Cash,2827.54,Asset,1177
+10/17/24,DEBIT,Inventory,9183.11,Asset,1178
+10/17/24,CREDIT,Accounts Receivable,9183.11,Asset,1179
+8/27/24,DEBIT,Accounts Payable,9468.48,Liability,1180
+8/27/24,CREDIT,Sales Revenue,9468.48,Asset,1181
+9/7/24,DEBIT,Cost of Goods Sold Expense,6594,Asset,1182
+9/7/24,CREDIT,Salaries Expense,6594,Asset,1183
+10/19/24,DEBIT,Salaries Payable,9481.2,Liability,1184
+10/19/24,CREDIT,Utilities Expense,9481.2,Asset,1185
+11/13/24,DEBIT,Common Stock,3300.44,Equity,1186
+11/13/24,CREDIT,Retained Earnings,3300.44,Equity,1187
+2/27/24,DEBIT,Cash,3910.69,Asset,1188
+2/27/24,CREDIT,Inventory,3910.69,Asset,1189
+3/13/24,DEBIT,Accounts Receivable,454.32,Asset,1190
+3/13/24,CREDIT,Accounts Payable,454.32,Liability,1191
+9/5/24,DEBIT,Sales Revenue,8976.7,Asset,1192
+9/5/24,CREDIT,Cost of Goods Sold Expense,8976.7,Asset,1193
+9/26/24,DEBIT,Salaries Expense,6917.52,Asset,1194
+9/26/24,CREDIT,Salaries Payable,6917.52,Liability,1195
+10/28/24,DEBIT,Utilities Expense,1787.17,Asset,1196
+10/28/24,CREDIT,Common Stock,1787.17,Equity,1197
+10/5/24,DEBIT,Retained Earnings,2574.43,Equity,1198
+10/5/24,CREDIT,Cash,2574.43,Asset,1199
+10/28/24,DEBIT,Inventory,1002.08,Asset,1200
+10/28/24,CREDIT,Accounts Receivable,1002.08,Asset,1201
+11/26/24,DEBIT,Accounts Payable,7464.88,Liability,1202
+11/26/24,CREDIT,Sales Revenue,7464.88,Asset,1203
+6/4/24,DEBIT,Cost of Goods Sold Expense,8787.43,Asset,1204
+6/4/24,CREDIT,Salaries Expense,8787.43,Asset,1205
+7/28/24,DEBIT,Salaries Payable,3008.44,Liability,1206
+7/28/24,CREDIT,Utilities Expense,3008.44,Asset,1207
+11/3/24,DEBIT,Common Stock,840.49,Equity,1208
+11/3/24,CREDIT,Retained Earnings,840.49,Equity,1209
+3/19/24,DEBIT,Cash,5844.56,Asset,1210
+3/19/24,CREDIT,Inventory,5844.56,Asset,1211
+5/24/24,DEBIT,Accounts Receivable,5949.15,Asset,1212
+5/24/24,CREDIT,Accounts Payable,5949.15,Liability,1213
+1/5/24,DEBIT,Sales Revenue,6449.56,Asset,1214
+1/5/24,CREDIT,Cost of Goods Sold Expense,6449.56,Asset,1215
+5/12/24,DEBIT,Salaries Expense,4796.29,Asset,1216
+5/12/24,CREDIT,Salaries Payable,4796.29,Liability,1217
+3/2/24,DEBIT,Utilities Expense,5271.75,Asset,1218
+3/2/24,CREDIT,Common Stock,5271.75,Equity,1219
+5/12/24,DEBIT,Retained Earnings,6194.39,Equity,1220
+5/12/24,CREDIT,Cash,6194.39,Asset,1221
+9/13/24,DEBIT,Inventory,114.95,Asset,1222
+9/13/24,CREDIT,Accounts Receivable,114.95,Asset,1223
+3/25/24,DEBIT,Accounts Payable,209.88,Liability,1224
+3/25/24,CREDIT,Sales Revenue,209.88,Asset,1225
+11/17/24,DEBIT,Cost of Goods Sold Expense,6693.28,Asset,1226
+11/17/24,CREDIT,Salaries Expense,6693.28,Asset,1227
+2/28/24,DEBIT,Salaries Payable,7704.45,Liability,1228
+2/28/24,CREDIT,Utilities Expense,7704.45,Asset,1229
+10/16/24,DEBIT,Common Stock,4392.04,Equity,1230
+10/16/24,CREDIT,Retained Earnings,4392.04,Equity,1231
+2/7/24,DEBIT,Cash,4647.88,Asset,1232
+2/7/24,CREDIT,Inventory,4647.88,Asset,1233
+8/6/24,DEBIT,Accounts Receivable,6427.61,Asset,1234
+8/6/24,CREDIT,Accounts Payable,6427.61,Liability,1235
+9/6/24,DEBIT,Sales Revenue,2492.72,Asset,1236
+9/6/24,CREDIT,Cost of Goods Sold Expense,2492.72,Asset,1237
+8/11/24,DEBIT,Salaries Expense,7332.11,Asset,1238
+8/11/24,CREDIT,Salaries Payable,7332.11,Liability,1239
+8/22/24,DEBIT,Utilities Expense,8594.58,Asset,1240
+8/22/24,CREDIT,Common Stock,8594.58,Equity,1241
+9/25/24,DEBIT,Retained Earnings,3257.94,Equity,1242
+9/25/24,CREDIT,Cash,3257.94,Asset,1243
+10/28/24,DEBIT,Inventory,1652.32,Asset,1244
+10/28/24,CREDIT,Accounts Receivable,1652.32,Asset,1245
+12/25/24,DEBIT,Accounts Payable,147.61,Liability,1246
+12/25/24,CREDIT,Sales Revenue,147.61,Asset,1247
+7/15/24,DEBIT,Cost of Goods Sold Expense,5981.57,Asset,1248
+7/15/24,CREDIT,Salaries Expense,5981.57,Asset,1249
+2/15/24,DEBIT,Salaries Payable,7514.46,Liability,1250
+2/15/24,CREDIT,Utilities Expense,7514.46,Asset,1251
+12/7/24,DEBIT,Common Stock,660.23,Equity,1252
+12/7/24,CREDIT,Retained Earnings,660.23,Equity,1253
+9/26/24,DEBIT,Cash,8542.75,Asset,1254
+9/26/24,CREDIT,Inventory,8542.75,Asset,1255
+6/20/24,DEBIT,Accounts Receivable,7300.38,Asset,1256
+6/20/24,CREDIT,Accounts Payable,7300.38,Liability,1257
+7/22/24,DEBIT,Sales Revenue,8079.77,Asset,1258
+7/22/24,CREDIT,Cost of Goods Sold Expense,8079.77,Asset,1259
+3/1/24,DEBIT,Salaries Expense,5652.15,Asset,1260
+3/1/24,CREDIT,Salaries Payable,5652.15,Liability,1261
+7/9/24,DEBIT,Utilities Expense,9358.01,Asset,1262
+7/9/24,CREDIT,Common Stock,9358.01,Equity,1263
+3/25/24,DEBIT,Retained Earnings,5188.98,Equity,1264
+3/25/24,CREDIT,Cash,5188.98,Asset,1265
+7/15/24,DEBIT,Inventory,4974.04,Asset,1266
+7/15/24,CREDIT,Accounts Receivable,4974.04,Asset,1267
+11/15/24,DEBIT,Accounts Payable,9262.67,Liability,1268
+11/15/24,CREDIT,Sales Revenue,9262.67,Asset,1269
+2/6/24,DEBIT,Cost of Goods Sold Expense,8972.46,Asset,1270
+2/6/24,CREDIT,Salaries Expense,8972.46,Asset,1271
+11/18/24,DEBIT,Salaries Payable,5393.87,Liability,1272
+11/18/24,CREDIT,Utilities Expense,5393.87,Asset,1273
+6/25/24,DEBIT,Common Stock,2623.57,Equity,1274
+6/25/24,CREDIT,Retained Earnings,2623.57,Equity,1275
+11/18/24,DEBIT,Cash,5285.66,Asset,1276
+11/18/24,CREDIT,Inventory,5285.66,Asset,1277
+12/6/24,DEBIT,Accounts Receivable,1974.31,Asset,1278
+12/6/24,CREDIT,Accounts Payable,1974.31,Liability,1279
+11/18/24,DEBIT,Sales Revenue,2940.9,Asset,1280
+11/18/24,CREDIT,Cost of Goods Sold Expense,2940.9,Asset,1281
+5/13/24,DEBIT,Salaries Expense,9519.99,Asset,1282
+5/13/24,CREDIT,Salaries Payable,9519.99,Liability,1283
+6/13/24,DEBIT,Utilities Expense,9741.47,Asset,1284
+6/13/24,CREDIT,Common Stock,9741.47,Equity,1285
+6/10/24,DEBIT,Retained Earnings,7803.38,Equity,1286
+6/10/24,CREDIT,Cash,7803.38,Asset,1287
+3/7/24,DEBIT,Inventory,2317.66,Asset,1288
+3/7/24,CREDIT,Accounts Receivable,2317.66,Asset,1289
+6/14/24,DEBIT,Accounts Payable,4244.3,Liability,1290
+6/14/24,CREDIT,Sales Revenue,4244.3,Asset,1291
+9/23/24,DEBIT,Cost of Goods Sold Expense,1185.93,Asset,1292
+9/23/24,CREDIT,Salaries Expense,1185.93,Asset,1293
+7/10/24,DEBIT,Salaries Payable,8330.15,Liability,1294
+7/10/24,CREDIT,Utilities Expense,8330.15,Asset,1295
+5/1/24,DEBIT,Common Stock,8049.91,Equity,1296
+5/1/24,CREDIT,Retained Earnings,8049.91,Equity,1297
+2/14/24,DEBIT,Cash,2634.97,Asset,1298
+2/14/24,CREDIT,Inventory,2634.97,Asset,1299
+8/20/24,DEBIT,Accounts Receivable,4042.16,Asset,1300
+8/20/24,CREDIT,Accounts Payable,4042.16,Liability,1301
+1/2/24,DEBIT,Sales Revenue,3410.19,Asset,1302
+1/2/24,CREDIT,Cost of Goods Sold Expense,3410.19,Asset,1303
+3/15/24,DEBIT,Salaries Expense,8394.42,Asset,1304
+3/15/24,CREDIT,Salaries Payable,8394.42,Liability,1305
+11/21/24,DEBIT,Utilities Expense,3542.86,Asset,1306
+11/21/24,CREDIT,Common Stock,3542.86,Equity,1307
+1/14/24,DEBIT,Retained Earnings,4170.8,Equity,1308
+1/14/24,CREDIT,Cash,4170.8,Asset,1309
+11/26/24,DEBIT,Inventory,2299.55,Asset,1310
+11/26/24,CREDIT,Accounts Receivable,2299.55,Asset,1311
+6/28/24,DEBIT,Accounts Payable,292.14,Liability,1312
+6/28/24,CREDIT,Sales Revenue,292.14,Asset,1313
+3/12/24,DEBIT,Cost of Goods Sold Expense,9053,Asset,1314
+3/12/24,CREDIT,Salaries Expense,9053,Asset,1315
+11/4/24,DEBIT,Salaries Payable,9893.3,Liability,1316
+11/4/24,CREDIT,Utilities Expense,9893.3,Asset,1317
+3/28/24,DEBIT,Common Stock,6778.69,Equity,1318
+3/28/24,CREDIT,Retained Earnings,6778.69,Equity,1319
+12/15/24,DEBIT,Cash,1307.09,Asset,1320
+12/15/24,CREDIT,Inventory,1307.09,Asset,1321
+11/8/24,DEBIT,Accounts Receivable,9667.14,Asset,1322
+11/8/24,CREDIT,Accounts Payable,9667.14,Liability,1323
+7/28/24,DEBIT,Sales Revenue,2938.96,Asset,1324
+7/28/24,CREDIT,Cost of Goods Sold Expense,2938.96,Asset,1325
+2/5/24,DEBIT,Salaries Expense,2835.05,Asset,1326
+2/5/24,CREDIT,Salaries Payable,2835.05,Liability,1327
+9/12/24,DEBIT,Utilities Expense,287.18,Asset,1328
+9/12/24,CREDIT,Common Stock,287.18,Equity,1329
+1/4/24,DEBIT,Retained Earnings,5700.12,Equity,1330
+1/4/24,CREDIT,Cash,5700.12,Asset,1331
+5/4/24,DEBIT,Inventory,115.07,Asset,1332
+5/4/24,CREDIT,Accounts Receivable,115.07,Asset,1333
+10/26/24,DEBIT,Accounts Payable,977.1,Liability,1334
+10/26/24,CREDIT,Sales Revenue,977.1,Asset,1335
+1/17/24,DEBIT,Cost of Goods Sold Expense,8010.26,Asset,1336
+1/17/24,CREDIT,Salaries Expense,8010.26,Asset,1337
+3/7/24,DEBIT,Salaries Payable,3361.62,Liability,1338
+3/7/24,CREDIT,Utilities Expense,3361.62,Asset,1339
+7/11/24,DEBIT,Common Stock,3405.06,Equity,1340
+7/11/24,CREDIT,Retained Earnings,3405.06,Equity,1341
+8/8/24,DEBIT,Cash,7051.51,Asset,1342
+8/8/24,CREDIT,Inventory,7051.51,Asset,1343
+10/4/24,DEBIT,Accounts Receivable,4161.38,Asset,1344
+10/4/24,CREDIT,Accounts Payable,4161.38,Liability,1345
+2/10/24,DEBIT,Sales Revenue,3488.51,Asset,1346
+2/10/24,CREDIT,Cost of Goods Sold Expense,3488.51,Asset,1347
+8/21/24,DEBIT,Salaries Expense,8093.36,Asset,1348
+8/21/24,CREDIT,Salaries Payable,8093.36,Liability,1349
+1/2/24,DEBIT,Utilities Expense,3478.24,Asset,1350
+1/2/24,CREDIT,Common Stock,3478.24,Equity,1351
+8/11/24,DEBIT,Retained Earnings,3223.73,Equity,1352
+8/11/24,CREDIT,Cash,3223.73,Asset,1353
+8/18/24,DEBIT,Inventory,1968.85,Asset,1354
+8/18/24,CREDIT,Accounts Receivable,1968.85,Asset,1355
+8/23/24,DEBIT,Accounts Payable,3043.14,Liability,1356
+8/23/24,CREDIT,Sales Revenue,3043.14,Asset,1357
+6/21/24,DEBIT,Cost of Goods Sold Expense,861.69,Asset,1358
+6/21/24,CREDIT,Salaries Expense,861.69,Asset,1359
+3/16/24,DEBIT,Salaries Payable,1771.79,Liability,1360
+3/16/24,CREDIT,Utilities Expense,1771.79,Asset,1361
+10/23/24,DEBIT,Common Stock,4916.3,Equity,1362
+10/23/24,CREDIT,Retained Earnings,4916.3,Equity,1363
+9/8/24,DEBIT,Cash,8894.29,Asset,1364
+9/8/24,CREDIT,Inventory,8894.29,Asset,1365
+6/7/24,DEBIT,Accounts Receivable,1853.86,Asset,1366
+6/7/24,CREDIT,Accounts Payable,1853.86,Liability,1367
+10/18/24,DEBIT,Sales Revenue,8547.94,Asset,1368
+10/18/24,CREDIT,Cost of Goods Sold Expense,8547.94,Asset,1369
+2/8/24,DEBIT,Salaries Expense,5301.64,Asset,1370
+2/8/24,CREDIT,Salaries Payable,5301.64,Liability,1371
+10/10/24,DEBIT,Utilities Expense,4925.58,Asset,1372
+10/10/24,CREDIT,Common Stock,4925.58,Equity,1373
+6/9/24,DEBIT,Retained Earnings,4448.21,Equity,1374
+6/9/24,CREDIT,Cash,4448.21,Asset,1375
+12/7/24,DEBIT,Inventory,1607.91,Asset,1376
+12/7/24,CREDIT,Accounts Receivable,1607.91,Asset,1377
+5/2/24,DEBIT,Accounts Payable,4233.99,Liability,1378
+5/2/24,CREDIT,Sales Revenue,4233.99,Asset,1379
+1/26/24,DEBIT,Cost of Goods Sold Expense,1433.87,Asset,1380
+1/26/24,CREDIT,Salaries Expense,1433.87,Asset,1381
+3/5/24,DEBIT,Salaries Payable,2370.97,Liability,1382
+3/5/24,CREDIT,Utilities Expense,2370.97,Asset,1383
+4/17/24,DEBIT,Common Stock,644.93,Equity,1384
+4/17/24,CREDIT,Retained Earnings,644.93,Equity,1385
+5/6/24,DEBIT,Cash,8055.87,Asset,1386
+5/6/24,CREDIT,Inventory,8055.87,Asset,1387
+9/22/24,DEBIT,Accounts Receivable,5244.77,Asset,1388
+9/22/24,CREDIT,Accounts Payable,5244.77,Liability,1389
+1/28/24,DEBIT,Sales Revenue,5079.82,Asset,1390
+1/28/24,CREDIT,Cost of Goods Sold Expense,5079.82,Asset,1391
+7/5/24,DEBIT,Salaries Expense,2539.53,Asset,1392
+7/5/24,CREDIT,Salaries Payable,2539.53,Liability,1393
+8/28/24,DEBIT,Utilities Expense,7070.19,Asset,1394
+8/28/24,CREDIT,Common Stock,7070.19,Equity,1395
+6/4/24,DEBIT,Retained Earnings,2135.78,Equity,1396
+6/4/24,CREDIT,Cash,2135.78,Asset,1397
+11/13/24,DEBIT,Inventory,5943.09,Asset,1398
+11/13/24,CREDIT,Accounts Receivable,5943.09,Asset,1399
+7/21/24,DEBIT,Accounts Payable,1501.71,Liability,1400
+7/21/24,CREDIT,Sales Revenue,1501.71,Asset,1401
+2/7/24,DEBIT,Cost of Goods Sold Expense,9671.46,Asset,1402
+2/7/24,CREDIT,Salaries Expense,9671.46,Asset,1403
+1/19/24,DEBIT,Salaries Payable,6565.96,Liability,1404
+1/19/24,CREDIT,Utilities Expense,6565.96,Asset,1405
+4/17/24,DEBIT,Common Stock,9933.73,Equity,1406
+4/17/24,CREDIT,Retained Earnings,9933.73,Equity,1407
+9/16/24,DEBIT,Cash,933.05,Asset,1408
+9/16/24,CREDIT,Inventory,933.05,Asset,1409
+5/11/24,DEBIT,Accounts Receivable,7578.43,Asset,1410
+5/11/24,CREDIT,Accounts Payable,7578.43,Liability,1411
+9/18/24,DEBIT,Sales Revenue,288.23,Asset,1412
+9/18/24,CREDIT,Cost of Goods Sold Expense,288.23,Asset,1413
+6/27/24,DEBIT,Salaries Expense,2858.01,Asset,1414
+6/27/24,CREDIT,Salaries Payable,2858.01,Liability,1415
+3/12/24,DEBIT,Utilities Expense,1597.67,Asset,1416
+3/12/24,CREDIT,Common Stock,1597.67,Equity,1417
+4/22/24,DEBIT,Retained Earnings,2818.47,Equity,1418
+4/22/24,CREDIT,Cash,2818.47,Asset,1419
+6/20/24,DEBIT,Inventory,1237.09,Asset,1420
+6/20/24,CREDIT,Accounts Receivable,1237.09,Asset,1421
+12/17/24,DEBIT,Accounts Payable,915.06,Liability,1422
+12/17/24,CREDIT,Sales Revenue,915.06,Asset,1423
+11/23/24,DEBIT,Cost of Goods Sold Expense,898.18,Asset,1424
+11/23/24,CREDIT,Salaries Expense,898.18,Asset,1425
+4/15/24,DEBIT,Salaries Payable,7928.86,Liability,1426
+4/15/24,CREDIT,Utilities Expense,7928.86,Asset,1427
+5/5/24,DEBIT,Common Stock,6633.76,Equity,1428
+5/5/24,CREDIT,Retained Earnings,6633.76,Equity,1429
+6/23/24,DEBIT,Cash,2067.82,Asset,1430
+6/23/24,CREDIT,Inventory,2067.82,Asset,1431
+10/2/24,DEBIT,Accounts Receivable,9946.78,Asset,1432
+10/2/24,CREDIT,Accounts Payable,9946.78,Liability,1433
+7/11/24,DEBIT,Sales Revenue,5521.88,Asset,1434
+7/11/24,CREDIT,Cost of Goods Sold Expense,5521.88,Asset,1435
+6/26/24,DEBIT,Salaries Expense,7729.68,Asset,1436
+6/26/24,CREDIT,Salaries Payable,7729.68,Liability,1437
+12/28/24,DEBIT,Utilities Expense,6447.14,Asset,1438
+12/28/24,CREDIT,Common Stock,6447.14,Equity,1439
+3/13/24,DEBIT,Retained Earnings,4449.21,Equity,1440
+3/13/24,CREDIT,Cash,4449.21,Asset,1441
+4/2/24,DEBIT,Inventory,6257.09,Asset,1442
+4/2/24,CREDIT,Accounts Receivable,6257.09,Asset,1443
+12/11/24,DEBIT,Accounts Payable,6075.03,Liability,1444
+12/11/24,CREDIT,Sales Revenue,6075.03,Asset,1445
+11/26/24,DEBIT,Cost of Goods Sold Expense,9952.1,Asset,1446
+11/26/24,CREDIT,Salaries Expense,9952.1,Asset,1447
+6/23/24,DEBIT,Salaries Payable,8007.07,Liability,1448
+6/23/24,CREDIT,Utilities Expense,8007.07,Asset,1449
+7/22/24,DEBIT,Common Stock,3404.71,Equity,1450
+7/22/24,CREDIT,Retained Earnings,3404.71,Equity,1451
+12/24/24,DEBIT,Cash,2593.22,Asset,1452
+12/24/24,CREDIT,Inventory,2593.22,Asset,1453
+7/12/24,DEBIT,Accounts Receivable,6884.6,Asset,1454
+7/12/24,CREDIT,Accounts Payable,6884.6,Liability,1455
+9/23/24,DEBIT,Sales Revenue,9346.51,Asset,1456
+9/23/24,CREDIT,Cost of Goods Sold Expense,9346.51,Asset,1457
+8/20/24,DEBIT,Salaries Expense,7452.15,Asset,1458
+8/20/24,CREDIT,Salaries Payable,7452.15,Liability,1459
+2/25/24,DEBIT,Utilities Expense,715.51,Asset,1460
+2/25/24,CREDIT,Common Stock,715.51,Equity,1461
+5/17/24,DEBIT,Retained Earnings,8197.05,Equity,1462
+5/17/24,CREDIT,Cash,8197.05,Asset,1463
+2/6/24,DEBIT,Inventory,4220.51,Asset,1464
+2/6/24,CREDIT,Accounts Receivable,4220.51,Asset,1465
+2/16/24,DEBIT,Accounts Payable,2112.65,Liability,1466
+2/16/24,CREDIT,Sales Revenue,2112.65,Asset,1467
+6/1/24,DEBIT,Cost of Goods Sold Expense,721.42,Asset,1468
+6/1/24,CREDIT,Salaries Expense,721.42,Asset,1469
+4/3/24,DEBIT,Salaries Payable,5777.35,Liability,1470
+4/3/24,CREDIT,Utilities Expense,5777.35,Asset,1471
+8/10/24,DEBIT,Common Stock,648.75,Equity,1472
+8/10/24,CREDIT,Retained Earnings,648.75,Equity,1473
+6/1/24,DEBIT,Cash,4994.85,Asset,1474
+6/1/24,CREDIT,Inventory,4994.85,Asset,1475
+11/4/24,DEBIT,Accounts Receivable,6438.8,Asset,1476
+11/4/24,CREDIT,Accounts Payable,6438.8,Liability,1477
+11/1/24,DEBIT,Sales Revenue,7645.7,Asset,1478
+11/1/24,CREDIT,Cost of Goods Sold Expense,7645.7,Asset,1479
+1/24/24,DEBIT,Salaries Expense,3984.99,Asset,1480
+1/24/24,CREDIT,Salaries Payable,3984.99,Liability,1481
+2/12/24,DEBIT,Utilities Expense,2306.09,Asset,1482
+2/12/24,CREDIT,Common Stock,2306.09,Equity,1483
+6/5/24,DEBIT,Retained Earnings,9557.11,Equity,1484
+6/5/24,CREDIT,Cash,9557.11,Asset,1485
+12/23/24,DEBIT,Inventory,465.14,Asset,1486
+12/23/24,CREDIT,Accounts Receivable,465.14,Asset,1487
+12/7/24,DEBIT,Accounts Payable,5409.85,Liability,1488
+12/7/24,CREDIT,Sales Revenue,5409.85,Asset,1489
+12/13/24,DEBIT,Cost of Goods Sold Expense,1581.06,Asset,1490
+12/13/24,CREDIT,Salaries Expense,1581.06,Asset,1491
+7/23/24,DEBIT,Salaries Payable,9457.59,Liability,1492
+7/23/24,CREDIT,Utilities Expense,9457.59,Asset,1493
+12/20/24,DEBIT,Common Stock,1410.82,Equity,1494
+12/20/24,CREDIT,Retained Earnings,1410.82,Equity,1495
+4/5/24,DEBIT,Cash,164.96,Asset,1496
+4/5/24,CREDIT,Inventory,164.96,Asset,1497
+9/28/24,DEBIT,Accounts Receivable,1566.25,Asset,1498
+9/28/24,CREDIT,Accounts Payable,1566.25,Liability,1499
+1/5/24,DEBIT,Sales Revenue,3361.49,Asset,1500
+1/5/24,CREDIT,Cost of Goods Sold Expense,3361.49,Asset,1501
+11/13/24,DEBIT,Salaries Expense,9860.14,Asset,1502
+11/13/24,CREDIT,Salaries Payable,9860.14,Liability,1503
+2/7/24,DEBIT,Utilities Expense,6550.53,Asset,1504
+2/7/24,CREDIT,Common Stock,6550.53,Equity,1505
+5/26/24,DEBIT,Retained Earnings,4008.82,Equity,1506
+5/26/24,CREDIT,Cash,4008.82,Asset,1507
+1/24/24,DEBIT,Inventory,8102.07,Asset,1508
+1/24/24,CREDIT,Accounts Receivable,8102.07,Asset,1509
+6/2/24,DEBIT,Accounts Payable,7436.61,Liability,1510
+6/2/24,CREDIT,Sales Revenue,7436.61,Asset,1511
+1/17/24,DEBIT,Cost of Goods Sold Expense,887.58,Asset,1512
+1/17/24,CREDIT,Salaries Expense,887.58,Asset,1513
+10/24/24,DEBIT,Salaries Payable,4040.5,Liability,1514
+10/24/24,CREDIT,Utilities Expense,4040.5,Asset,1515
+12/21/24,DEBIT,Common Stock,1152.82,Equity,1516
+12/21/24,CREDIT,Retained Earnings,1152.82,Equity,1517
+4/16/24,DEBIT,Cash,352.53,Asset,1518
+4/16/24,CREDIT,Inventory,352.53,Asset,1519
+9/1/24,DEBIT,Accounts Receivable,6416.9,Asset,1520
+9/1/24,CREDIT,Accounts Payable,6416.9,Liability,1521
+1/18/24,DEBIT,Sales Revenue,9686.01,Asset,1522
+1/18/24,CREDIT,Cost of Goods Sold Expense,9686.01,Asset,1523
+5/19/24,DEBIT,Salaries Expense,5280.53,Asset,1524
+5/19/24,CREDIT,Salaries Payable,5280.53,Liability,1525
+3/15/24,DEBIT,Utilities Expense,6380.2,Asset,1526
+3/15/24,CREDIT,Common Stock,6380.2,Equity,1527
+4/25/24,DEBIT,Retained Earnings,4690.86,Equity,1528
+4/25/24,CREDIT,Cash,4690.86,Asset,1529
+10/20/24,DEBIT,Inventory,1926.32,Asset,1530
+10/20/24,CREDIT,Accounts Receivable,1926.32,Asset,1531
+6/8/24,DEBIT,Accounts Payable,4596.34,Liability,1532
+6/8/24,CREDIT,Sales Revenue,4596.34,Asset,1533
+4/20/24,DEBIT,Cost of Goods Sold Expense,228.78,Asset,1534
+4/20/24,CREDIT,Salaries Expense,228.78,Asset,1535
+9/19/24,DEBIT,Salaries Payable,6726.09,Liability,1536
+9/19/24,CREDIT,Utilities Expense,6726.09,Asset,1537
+7/1/24,DEBIT,Common Stock,3748.2,Equity,1538
+7/1/24,CREDIT,Retained Earnings,3748.2,Equity,1539
+7/2/24,DEBIT,Cash,8143.98,Asset,1540
+7/2/24,CREDIT,Inventory,8143.98,Asset,1541
+8/11/24,DEBIT,Accounts Receivable,703.74,Asset,1542
+8/11/24,CREDIT,Accounts Payable,703.74,Liability,1543
+7/16/24,DEBIT,Sales Revenue,6030.87,Asset,1544
+7/16/24,CREDIT,Cost of Goods Sold Expense,6030.87,Asset,1545
+4/14/24,DEBIT,Salaries Expense,3294.83,Asset,1546
+4/14/24,CREDIT,Salaries Payable,3294.83,Liability,1547
+4/17/24,DEBIT,Utilities Expense,1053.25,Asset,1548
+4/17/24,CREDIT,Common Stock,1053.25,Equity,1549
+6/9/24,DEBIT,Retained Earnings,8558.31,Equity,1550
+6/9/24,CREDIT,Cash,8558.31,Asset,1551
+5/19/24,DEBIT,Inventory,4662.56,Asset,1552
+5/19/24,CREDIT,Accounts Receivable,4662.56,Asset,1553
+2/3/24,DEBIT,Accounts Payable,5845.85,Liability,1554
+2/3/24,CREDIT,Sales Revenue,5845.85,Asset,1555
+2/25/24,DEBIT,Cost of Goods Sold Expense,3175.78,Asset,1556
+2/25/24,CREDIT,Salaries Expense,3175.78,Asset,1557
+3/17/24,DEBIT,Salaries Payable,5604.36,Liability,1558
+3/17/24,CREDIT,Utilities Expense,5604.36,Asset,1559
+7/9/24,DEBIT,Common Stock,7570.29,Equity,1560
+7/9/24,CREDIT,Retained Earnings,7570.29,Equity,1561
+10/11/24,DEBIT,Cash,5622.49,Asset,1562
+10/11/24,CREDIT,Inventory,5622.49,Asset,1563
+3/13/24,DEBIT,Accounts Receivable,223.07,Asset,1564
+3/13/24,CREDIT,Accounts Payable,223.07,Liability,1565
+12/1/24,DEBIT,Sales Revenue,2534.49,Asset,1566
+12/1/24,CREDIT,Cost of Goods Sold Expense,2534.49,Asset,1567
+10/26/24,DEBIT,Salaries Expense,333.63,Asset,1568
+10/26/24,CREDIT,Salaries Payable,333.63,Liability,1569
+7/26/24,DEBIT,Utilities Expense,9751.91,Asset,1570
+7/26/24,CREDIT,Common Stock,9751.91,Equity,1571
+10/18/24,DEBIT,Retained Earnings,9888.55,Equity,1572
+10/18/24,CREDIT,Cash,9888.55,Asset,1573
+3/9/24,DEBIT,Inventory,2854.81,Asset,1574
+3/9/24,CREDIT,Accounts Receivable,2854.81,Asset,1575
+12/16/24,DEBIT,Accounts Payable,7625.03,Liability,1576
+12/16/24,CREDIT,Sales Revenue,7625.03,Asset,1577
+2/28/24,DEBIT,Cost of Goods Sold Expense,3485.15,Asset,1578
+2/28/24,CREDIT,Salaries Expense,3485.15,Asset,1579
+1/23/24,DEBIT,Salaries Payable,9816.33,Liability,1580
+1/23/24,CREDIT,Utilities Expense,9816.33,Asset,1581
+2/8/24,DEBIT,Common Stock,1597.33,Equity,1582
+2/8/24,CREDIT,Retained Earnings,1597.33,Equity,1583
+9/20/24,DEBIT,Cash,4728.33,Asset,1584
+9/20/24,CREDIT,Inventory,4728.33,Asset,1585
+10/2/24,DEBIT,Accounts Receivable,7536.72,Asset,1586
+10/2/24,CREDIT,Accounts Payable,7536.72,Liability,1587
+3/18/24,DEBIT,Sales Revenue,2282.83,Asset,1588
+3/18/24,CREDIT,Cost of Goods Sold Expense,2282.83,Asset,1589
+7/14/24,DEBIT,Salaries Expense,509.36,Asset,1590
+7/14/24,CREDIT,Salaries Payable,509.36,Liability,1591
+10/3/24,DEBIT,Utilities Expense,2106.08,Asset,1592
+10/3/24,CREDIT,Common Stock,2106.08,Equity,1593
+5/10/24,DEBIT,Retained Earnings,9568.35,Equity,1594
+5/10/24,CREDIT,Cash,9568.35,Asset,1595
+6/10/24,DEBIT,Inventory,7988.59,Asset,1596
+6/10/24,CREDIT,Accounts Receivable,7988.59,Asset,1597
+4/24/24,DEBIT,Accounts Payable,3274.73,Liability,1598
+4/24/24,CREDIT,Sales Revenue,3274.73,Asset,1599
+6/11/24,DEBIT,Cost of Goods Sold Expense,4865.73,Asset,1600
+6/11/24,CREDIT,Salaries Expense,4865.73,Asset,1601
+6/5/24,DEBIT,Salaries Payable,2710.78,Liability,1602
+6/5/24,CREDIT,Utilities Expense,2710.78,Asset,1603
+4/13/24,DEBIT,Common Stock,9325.47,Equity,1604
+4/13/24,CREDIT,Retained Earnings,9325.47,Equity,1605
+6/17/24,DEBIT,Cash,5699.64,Asset,1606
+6/17/24,CREDIT,Inventory,5699.64,Asset,1607
+11/25/24,DEBIT,Accounts Receivable,8555.16,Asset,1608
+11/25/24,CREDIT,Accounts Payable,8555.16,Liability,1609
+1/9/24,DEBIT,Sales Revenue,3731.72,Asset,1610
+1/9/24,CREDIT,Cost of Goods Sold Expense,3731.72,Asset,1611
+4/4/24,DEBIT,Salaries Expense,6394.56,Asset,1612
+4/4/24,CREDIT,Salaries Payable,6394.56,Liability,1613
+5/17/24,DEBIT,Utilities Expense,8046.33,Asset,1614
+5/17/24,CREDIT,Common Stock,8046.33,Equity,1615
+5/26/24,DEBIT,Retained Earnings,9633.5,Equity,1616
+5/26/24,CREDIT,Cash,9633.5,Asset,1617
+2/22/24,DEBIT,Inventory,8875.64,Asset,1618
+2/22/24,CREDIT,Accounts Receivable,8875.64,Asset,1619
+6/25/24,DEBIT,Accounts Payable,4450.38,Liability,1620
+6/25/24,CREDIT,Sales Revenue,4450.38,Asset,1621
+12/24/24,DEBIT,Cost of Goods Sold Expense,167.64,Asset,1622
+12/24/24,CREDIT,Salaries Expense,167.64,Asset,1623
+3/9/24,DEBIT,Salaries Payable,1147.06,Liability,1624
+3/9/24,CREDIT,Utilities Expense,1147.06,Asset,1625
+7/20/24,DEBIT,Common Stock,893.5,Equity,1626
+7/20/24,CREDIT,Retained Earnings,893.5,Equity,1627
+8/25/24,DEBIT,Cash,4602.05,Asset,1628
+8/25/24,CREDIT,Inventory,4602.05,Asset,1629
+8/5/24,DEBIT,Accounts Receivable,2054.97,Asset,1630
+8/5/24,CREDIT,Accounts Payable,2054.97,Liability,1631
+4/14/24,DEBIT,Sales Revenue,3205.92,Asset,1632
+4/14/24,CREDIT,Cost of Goods Sold Expense,3205.92,Asset,1633
+4/23/24,DEBIT,Salaries Expense,7616.33,Asset,1634
+4/23/24,CREDIT,Salaries Payable,7616.33,Liability,1635
+2/25/24,DEBIT,Utilities Expense,8387.22,Asset,1636
+2/25/24,CREDIT,Common Stock,8387.22,Equity,1637
+5/10/24,DEBIT,Retained Earnings,4303.87,Equity,1638
+5/10/24,CREDIT,Cash,4303.87,Asset,1639
+11/15/24,DEBIT,Inventory,6294.39,Asset,1640
+11/15/24,CREDIT,Accounts Receivable,6294.39,Asset,1641
+2/15/24,DEBIT,Accounts Payable,2389.32,Liability,1642
+2/15/24,CREDIT,Sales Revenue,2389.32,Asset,1643
+4/8/24,DEBIT,Cost of Goods Sold Expense,6886.29,Asset,1644
+4/8/24,CREDIT,Salaries Expense,6886.29,Asset,1645
+7/18/24,DEBIT,Salaries Payable,7230.62,Liability,1646
+7/18/24,CREDIT,Utilities Expense,7230.62,Asset,1647
+1/14/24,DEBIT,Common Stock,2044.8,Equity,1648
+1/14/24,CREDIT,Retained Earnings,2044.8,Equity,1649
+7/28/24,DEBIT,Cash,8860.32,Asset,1650
+7/28/24,CREDIT,Inventory,8860.32,Asset,1651
+4/4/24,DEBIT,Accounts Receivable,6323.01,Asset,1652
+4/4/24,CREDIT,Accounts Payable,6323.01,Liability,1653
+3/25/24,DEBIT,Sales Revenue,2343.28,Asset,1654
+3/25/24,CREDIT,Cost of Goods Sold Expense,2343.28,Asset,1655
+10/15/24,DEBIT,Salaries Expense,5949.4,Asset,1656
+10/15/24,CREDIT,Salaries Payable,5949.4,Liability,1657
+9/20/24,DEBIT,Utilities Expense,2243.38,Asset,1658
+9/20/24,CREDIT,Common Stock,2243.38,Equity,1659
+3/1/24,DEBIT,Retained Earnings,580.65,Equity,1660
+3/1/24,CREDIT,Cash,580.65,Asset,1661
+10/11/24,DEBIT,Inventory,1962.69,Asset,1662
+10/11/24,CREDIT,Accounts Receivable,1962.69,Asset,1663
+5/20/24,DEBIT,Accounts Payable,9829.64,Liability,1664
+5/20/24,CREDIT,Sales Revenue,9829.64,Asset,1665
+5/5/24,DEBIT,Cost of Goods Sold Expense,8956.99,Asset,1666
+5/5/24,CREDIT,Salaries Expense,8956.99,Asset,1667
+10/23/24,DEBIT,Salaries Payable,7000.36,Liability,1668
+10/23/24,CREDIT,Utilities Expense,7000.36,Asset,1669
+11/6/24,DEBIT,Common Stock,1000.96,Equity,1670
+11/6/24,CREDIT,Retained Earnings,1000.96,Equity,1671
+2/20/24,DEBIT,Cash,1883.06,Asset,1672
+2/20/24,CREDIT,Inventory,1883.06,Asset,1673
+5/24/24,DEBIT,Accounts Receivable,2542.4,Asset,1674
+5/24/24,CREDIT,Accounts Payable,2542.4,Liability,1675
+7/21/24,DEBIT,Sales Revenue,3786.3,Asset,1676
+7/21/24,CREDIT,Cost of Goods Sold Expense,3786.3,Asset,1677
+7/16/24,DEBIT,Salaries Expense,8515.42,Asset,1678
+7/16/24,CREDIT,Salaries Payable,8515.42,Liability,1679
+11/19/24,DEBIT,Utilities Expense,6819.31,Asset,1680
+11/19/24,CREDIT,Common Stock,6819.31,Equity,1681
+8/27/24,DEBIT,Retained Earnings,7763.41,Equity,1682
+8/27/24,CREDIT,Cash,7763.41,Asset,1683
+3/3/24,DEBIT,Inventory,5119.79,Asset,1684
+3/3/24,CREDIT,Accounts Receivable,5119.79,Asset,1685
+8/4/24,DEBIT,Accounts Payable,4620.62,Liability,1686
+8/4/24,CREDIT,Sales Revenue,4620.62,Asset,1687
+6/22/24,DEBIT,Cost of Goods Sold Expense,7809.76,Asset,1688
+6/22/24,CREDIT,Salaries Expense,7809.76,Asset,1689
+11/24/24,DEBIT,Salaries Payable,9541.92,Liability,1690
+11/24/24,CREDIT,Utilities Expense,9541.92,Asset,1691
+8/7/24,DEBIT,Common Stock,1819.7,Equity,1692
+8/7/24,CREDIT,Retained Earnings,1819.7,Equity,1693
+10/22/24,DEBIT,Cash,4202.86,Asset,1694
+10/22/24,CREDIT,Inventory,4202.86,Asset,1695
+3/4/24,DEBIT,Accounts Receivable,5393.07,Asset,1696
+3/4/24,CREDIT,Accounts Payable,5393.07,Liability,1697
+3/19/24,DEBIT,Sales Revenue,1194.05,Asset,1698
+3/19/24,CREDIT,Cost of Goods Sold Expense,1194.05,Asset,1699
+1/2/24,DEBIT,Salaries Expense,2699.83,Asset,1700
+1/2/24,CREDIT,Salaries Payable,2699.83,Liability,1701
+12/17/24,DEBIT,Utilities Expense,9922.22,Asset,1702
+12/17/24,CREDIT,Common Stock,9922.22,Equity,1703
+11/21/24,DEBIT,Retained Earnings,526,Equity,1704
+11/21/24,CREDIT,Cash,526,Asset,1705
+5/24/24,DEBIT,Inventory,8477.89,Asset,1706
+5/24/24,CREDIT,Accounts Receivable,8477.89,Asset,1707
+6/24/24,DEBIT,Accounts Payable,7074.54,Liability,1708
+6/24/24,CREDIT,Sales Revenue,7074.54,Asset,1709
+7/10/24,DEBIT,Cost of Goods Sold Expense,3685.5,Asset,1710
+7/10/24,CREDIT,Salaries Expense,3685.5,Asset,1711
+10/28/24,DEBIT,Salaries Payable,9868.69,Liability,1712
+10/28/24,CREDIT,Utilities Expense,9868.69,Asset,1713
+2/27/24,DEBIT,Common Stock,6459.55,Equity,1714
+2/27/24,CREDIT,Retained Earnings,6459.55,Equity,1715
+9/1/24,DEBIT,Cash,9931.99,Asset,1716
+9/1/24,CREDIT,Inventory,9931.99,Asset,1717
+5/9/24,DEBIT,Accounts Receivable,2772.92,Asset,1718
+5/9/24,CREDIT,Accounts Payable,2772.92,Liability,1719
+2/19/24,DEBIT,Sales Revenue,2492.1,Asset,1720
+2/19/24,CREDIT,Cost of Goods Sold Expense,2492.1,Asset,1721
+4/12/24,DEBIT,Salaries Expense,8520.26,Asset,1722
+4/12/24,CREDIT,Salaries Payable,8520.26,Liability,1723
+1/7/24,DEBIT,Utilities Expense,5799.61,Asset,1724
+1/7/24,CREDIT,Common Stock,5799.61,Equity,1725
+6/2/24,DEBIT,Retained Earnings,8747.46,Equity,1726
+6/2/24,CREDIT,Cash,8747.46,Asset,1727
+8/14/24,DEBIT,Inventory,5990.41,Asset,1728
+8/14/24,CREDIT,Accounts Receivable,5990.41,Asset,1729
+6/17/24,DEBIT,Accounts Payable,6291.07,Liability,1730
+6/17/24,CREDIT,Sales Revenue,6291.07,Asset,1731
+2/17/24,DEBIT,Cost of Goods Sold Expense,7364.16,Asset,1732
+2/17/24,CREDIT,Salaries Expense,7364.16,Asset,1733
+5/4/24,DEBIT,Salaries Payable,995.1,Liability,1734
+5/4/24,CREDIT,Utilities Expense,995.1,Asset,1735
+4/9/24,DEBIT,Common Stock,7188.26,Equity,1736
+4/9/24,CREDIT,Retained Earnings,7188.26,Equity,1737
+10/25/24,DEBIT,Cash,7558.4,Asset,1738
+10/25/24,CREDIT,Inventory,7558.4,Asset,1739
+8/13/24,DEBIT,Accounts Receivable,1808.76,Asset,1740
+8/13/24,CREDIT,Accounts Payable,1808.76,Liability,1741
+8/12/24,DEBIT,Sales Revenue,8082.9,Asset,1742
+8/12/24,CREDIT,Cost of Goods Sold Expense,8082.9,Asset,1743
+4/10/24,DEBIT,Salaries Expense,2623.12,Asset,1744
+4/10/24,CREDIT,Salaries Payable,2623.12,Liability,1745
+10/2/24,DEBIT,Utilities Expense,9870.3,Asset,1746
+10/2/24,CREDIT,Common Stock,9870.3,Equity,1747
+9/5/24,DEBIT,Retained Earnings,4037.51,Equity,1748
+9/5/24,CREDIT,Cash,4037.51,Asset,1749
+12/10/24,DEBIT,Inventory,3309.02,Asset,1750
+12/10/24,CREDIT,Accounts Receivable,3309.02,Asset,1751
+10/3/24,DEBIT,Accounts Payable,7046.99,Liability,1752
+10/3/24,CREDIT,Sales Revenue,7046.99,Asset,1753
+1/23/24,DEBIT,Cost of Goods Sold Expense,4909.89,Asset,1754
+1/23/24,CREDIT,Salaries Expense,4909.89,Asset,1755
+7/10/24,DEBIT,Salaries Payable,682.03,Liability,1756
+7/10/24,CREDIT,Utilities Expense,682.03,Asset,1757
+3/3/24,DEBIT,Common Stock,1009.52,Equity,1758
+3/3/24,CREDIT,Retained Earnings,1009.52,Equity,1759
+1/16/24,DEBIT,Cash,9020.95,Asset,1760
+1/16/24,CREDIT,Inventory,9020.95,Asset,1761
+4/13/24,DEBIT,Accounts Receivable,5886.5,Asset,1762
+4/13/24,CREDIT,Accounts Payable,5886.5,Liability,1763
+1/20/24,DEBIT,Sales Revenue,2161.85,Asset,1764
+1/20/24,CREDIT,Cost of Goods Sold Expense,2161.85,Asset,1765
+8/21/24,DEBIT,Salaries Expense,4920.81,Asset,1766
+8/21/24,CREDIT,Salaries Payable,4920.81,Liability,1767
+11/14/24,DEBIT,Utilities Expense,1767.48,Asset,1768
+11/14/24,CREDIT,Common Stock,1767.48,Equity,1769
+7/11/24,DEBIT,Retained Earnings,3168.12,Equity,1770
+7/11/24,CREDIT,Cash,3168.12,Asset,1771
+11/25/24,DEBIT,Inventory,3928.17,Asset,1772
+11/25/24,CREDIT,Accounts Receivable,3928.17,Asset,1773
+9/19/24,DEBIT,Accounts Payable,5659.35,Liability,1774
+9/19/24,CREDIT,Sales Revenue,5659.35,Asset,1775
+12/9/24,DEBIT,Cost of Goods Sold Expense,8941.84,Asset,1776
+12/9/24,CREDIT,Salaries Expense,8941.84,Asset,1777
+12/15/24,DEBIT,Salaries Payable,5407.13,Liability,1778
+12/15/24,CREDIT,Utilities Expense,5407.13,Asset,1779
+4/16/24,DEBIT,Common Stock,8081.39,Equity,1780
+4/16/24,CREDIT,Retained Earnings,8081.39,Equity,1781
+2/23/24,DEBIT,Cash,2745,Asset,1782
+2/23/24,CREDIT,Inventory,2745,Asset,1783
+3/23/24,DEBIT,Accounts Receivable,4152.07,Asset,1784
+3/23/24,CREDIT,Accounts Payable,4152.07,Liability,1785
+1/9/24,DEBIT,Sales Revenue,7472.36,Asset,1786
+1/9/24,CREDIT,Cost of Goods Sold Expense,7472.36,Asset,1787
+9/20/24,DEBIT,Salaries Expense,4833.78,Asset,1788
+9/20/24,CREDIT,Salaries Payable,4833.78,Liability,1789
+12/19/24,DEBIT,Utilities Expense,4697.13,Asset,1790
+12/19/24,CREDIT,Common Stock,4697.13,Equity,1791
+7/9/24,DEBIT,Retained Earnings,4873.06,Equity,1792
+7/9/24,CREDIT,Cash,4873.06,Asset,1793
+9/16/24,DEBIT,Inventory,8832.14,Asset,1794
+9/16/24,CREDIT,Accounts Receivable,8832.14,Asset,1795
+3/17/24,DEBIT,Accounts Payable,148.08,Liability,1796
+3/17/24,CREDIT,Sales Revenue,148.08,Asset,1797
+6/28/24,DEBIT,Cost of Goods Sold Expense,8016.51,Asset,1798
+6/28/24,CREDIT,Salaries Expense,8016.51,Asset,1799
+9/7/24,DEBIT,Salaries Payable,9917.37,Liability,1800
+9/7/24,CREDIT,Utilities Expense,9917.37,Asset,1801
+1/18/24,DEBIT,Common Stock,388.22,Equity,1802
+1/18/24,CREDIT,Retained Earnings,388.22,Equity,1803
+5/22/24,DEBIT,Cash,9771.78,Asset,1804
+5/22/24,CREDIT,Inventory,9771.78,Asset,1805
+6/2/24,DEBIT,Accounts Receivable,2450.31,Asset,1806
+6/2/24,CREDIT,Accounts Payable,2450.31,Liability,1807
+1/8/24,DEBIT,Sales Revenue,2642.16,Asset,1808
+1/8/24,CREDIT,Cost of Goods Sold Expense,2642.16,Asset,1809
+11/11/24,DEBIT,Salaries Expense,2905.56,Asset,1810
+11/11/24,CREDIT,Salaries Payable,2905.56,Liability,1811
+5/10/24,DEBIT,Utilities Expense,4873.12,Asset,1812
+5/10/24,CREDIT,Common Stock,4873.12,Equity,1813
+6/14/24,DEBIT,Retained Earnings,2423.49,Equity,1814
+6/14/24,CREDIT,Cash,2423.49,Asset,1815
+1/21/24,DEBIT,Inventory,6338.78,Asset,1816
+1/21/24,CREDIT,Accounts Receivable,6338.78,Asset,1817
+11/11/24,DEBIT,Accounts Payable,4027.54,Liability,1818
+11/11/24,CREDIT,Sales Revenue,4027.54,Asset,1819
+6/5/24,DEBIT,Cost of Goods Sold Expense,8963.57,Asset,1820
+6/5/24,CREDIT,Salaries Expense,8963.57,Asset,1821
+3/9/24,DEBIT,Salaries Payable,2731.2,Liability,1822
+3/9/24,CREDIT,Utilities Expense,2731.2,Asset,1823
+10/12/24,DEBIT,Common Stock,6677.6,Equity,1824
+10/12/24,CREDIT,Retained Earnings,6677.6,Equity,1825
+10/28/24,DEBIT,Cash,7229.15,Asset,1826
+10/28/24,CREDIT,Inventory,7229.15,Asset,1827
+11/18/24,DEBIT,Accounts Receivable,9454.34,Asset,1828
+11/18/24,CREDIT,Accounts Payable,9454.34,Liability,1829
+2/11/24,DEBIT,Sales Revenue,9488.52,Asset,1830
+2/11/24,CREDIT,Cost of Goods Sold Expense,9488.52,Asset,1831
+11/13/24,DEBIT,Salaries Expense,7135.99,Asset,1832
+11/13/24,CREDIT,Salaries Payable,7135.99,Liability,1833
+5/26/24,DEBIT,Utilities Expense,3194.16,Asset,1834
+5/26/24,CREDIT,Common Stock,3194.16,Equity,1835
+11/26/24,DEBIT,Retained Earnings,8378.72,Equity,1836
+11/26/24,CREDIT,Cash,8378.72,Asset,1837
+3/10/24,DEBIT,Inventory,2537.77,Asset,1838
+3/10/24,CREDIT,Accounts Receivable,2537.77,Asset,1839
+4/6/24,DEBIT,Accounts Payable,1126.4,Liability,1840
+4/6/24,CREDIT,Sales Revenue,1126.4,Asset,1841
+4/14/24,DEBIT,Cost of Goods Sold Expense,4571.78,Asset,1842
+4/14/24,CREDIT,Salaries Expense,4571.78,Asset,1843
+6/6/24,DEBIT,Salaries Payable,2283.39,Liability,1844
+6/6/24,CREDIT,Utilities Expense,2283.39,Asset,1845
+5/10/24,DEBIT,Common Stock,2848.27,Equity,1846
+5/10/24,CREDIT,Retained Earnings,2848.27,Equity,1847
+1/24/24,DEBIT,Cash,6976.76,Asset,1848
+1/24/24,CREDIT,Inventory,6976.76,Asset,1849
+1/8/24,DEBIT,Accounts Receivable,566.22,Asset,1850
+1/8/24,CREDIT,Accounts Payable,566.22,Liability,1851
+7/2/24,DEBIT,Sales Revenue,2500.12,Asset,1852
+7/2/24,CREDIT,Cost of Goods Sold Expense,2500.12,Asset,1853
+9/2/24,DEBIT,Salaries Expense,5177.01,Asset,1854
+9/2/24,CREDIT,Salaries Payable,5177.01,Liability,1855
+2/6/24,DEBIT,Utilities Expense,2262.39,Asset,1856
+2/6/24,CREDIT,Common Stock,2262.39,Equity,1857
+10/28/24,DEBIT,Retained Earnings,1509.61,Equity,1858
+10/28/24,CREDIT,Cash,1509.61,Asset,1859
+8/17/24,DEBIT,Inventory,2815.06,Asset,1860
+8/17/24,CREDIT,Accounts Receivable,2815.06,Asset,1861
+5/24/24,DEBIT,Accounts Payable,6069.75,Liability,1862
+5/24/24,CREDIT,Sales Revenue,6069.75,Asset,1863
+9/25/24,DEBIT,Cost of Goods Sold Expense,2262.65,Asset,1864
+9/25/24,CREDIT,Salaries Expense,2262.65,Asset,1865
+10/10/24,DEBIT,Salaries Payable,7195.06,Liability,1866
+10/10/24,CREDIT,Utilities Expense,7195.06,Asset,1867
+11/8/24,DEBIT,Common Stock,9032.29,Equity,1868
+11/8/24,CREDIT,Retained Earnings,9032.29,Equity,1869
+4/23/24,DEBIT,Cash,5505.1,Asset,1870
+4/23/24,CREDIT,Inventory,5505.1,Asset,1871
+7/16/24,DEBIT,Accounts Receivable,6261.8,Asset,1872
+7/16/24,CREDIT,Accounts Payable,6261.8,Liability,1873
+11/10/24,DEBIT,Sales Revenue,5483.66,Asset,1874
+11/10/24,CREDIT,Cost of Goods Sold Expense,5483.66,Asset,1875
+12/6/24,DEBIT,Salaries Expense,8001.97,Asset,1876
+12/6/24,CREDIT,Salaries Payable,8001.97,Liability,1877
+5/27/24,DEBIT,Utilities Expense,3410.11,Asset,1878
+5/27/24,CREDIT,Common Stock,3410.11,Equity,1879
+8/11/24,DEBIT,Retained Earnings,9365.41,Equity,1880
+8/11/24,CREDIT,Cash,9365.41,Asset,1881
+11/7/24,DEBIT,Inventory,9665.14,Asset,1882
+11/7/24,CREDIT,Accounts Receivable,9665.14,Asset,1883
+10/14/24,DEBIT,Accounts Payable,7342.26,Liability,1884
+10/14/24,CREDIT,Sales Revenue,7342.26,Asset,1885
+2/26/24,DEBIT,Cost of Goods Sold Expense,8765.51,Asset,1886
+2/26/24,CREDIT,Salaries Expense,8765.51,Asset,1887
+5/16/24,DEBIT,Salaries Payable,6595.98,Liability,1888
+5/16/24,CREDIT,Utilities Expense,6595.98,Asset,1889
+10/23/24,DEBIT,Common Stock,9989.4,Equity,1890
+10/23/24,CREDIT,Retained Earnings,9989.4,Equity,1891
+12/7/24,DEBIT,Cash,2709.3,Asset,1892
+12/7/24,CREDIT,Inventory,2709.3,Asset,1893
+2/24/24,DEBIT,Accounts Receivable,494.43,Asset,1894
+2/24/24,CREDIT,Accounts Payable,494.43,Liability,1895
+4/22/24,DEBIT,Sales Revenue,8228.05,Asset,1896
+4/22/24,CREDIT,Cost of Goods Sold Expense,8228.05,Asset,1897
+6/1/24,DEBIT,Salaries Expense,8353.15,Asset,1898
+6/1/24,CREDIT,Salaries Payable,8353.15,Liability,1899
+3/8/24,DEBIT,Utilities Expense,6319.83,Asset,1900
+3/8/24,CREDIT,Common Stock,6319.83,Equity,1901
+11/12/24,DEBIT,Retained Earnings,2467.31,Equity,1902
+11/12/24,CREDIT,Cash,2467.31,Asset,1903
+12/7/24,DEBIT,Inventory,8759.24,Asset,1904
+12/7/24,CREDIT,Accounts Receivable,8759.24,Asset,1905
+3/20/24,DEBIT,Accounts Payable,7318.71,Liability,1906
+3/20/24,CREDIT,Sales Revenue,7318.71,Asset,1907
+5/14/24,DEBIT,Cost of Goods Sold Expense,7894.32,Asset,1908
+5/14/24,CREDIT,Salaries Expense,7894.32,Asset,1909
+6/13/24,DEBIT,Salaries Payable,1049.02,Liability,1910
+6/13/24,CREDIT,Utilities Expense,1049.02,Asset,1911
+11/2/24,DEBIT,Common Stock,9414.87,Equity,1912
+11/2/24,CREDIT,Retained Earnings,9414.87,Equity,1913
+6/28/24,DEBIT,Cash,2407.87,Asset,1914
+6/28/24,CREDIT,Inventory,2407.87,Asset,1915
+7/21/24,DEBIT,Accounts Receivable,1764.65,Asset,1916
+7/21/24,CREDIT,Accounts Payable,1764.65,Liability,1917
+4/5/24,DEBIT,Sales Revenue,8709.02,Asset,1918
+4/5/24,CREDIT,Cost of Goods Sold Expense,8709.02,Asset,1919
+6/11/24,DEBIT,Salaries Expense,1219.14,Asset,1920
+6/11/24,CREDIT,Salaries Payable,1219.14,Liability,1921
+8/13/24,DEBIT,Utilities Expense,8733.27,Asset,1922
+8/13/24,CREDIT,Common Stock,8733.27,Equity,1923
+1/8/24,DEBIT,Retained Earnings,695.26,Equity,1924
+1/8/24,CREDIT,Cash,695.26,Asset,1925
+8/21/24,DEBIT,Inventory,5517.98,Asset,1926
+8/21/24,CREDIT,Accounts Receivable,5517.98,Asset,1927
+2/17/24,DEBIT,Accounts Payable,8422.88,Liability,1928
+2/17/24,CREDIT,Sales Revenue,8422.88,Asset,1929
+4/21/24,DEBIT,Cost of Goods Sold Expense,5587.71,Asset,1930
+4/21/24,CREDIT,Salaries Expense,5587.71,Asset,1931
+1/15/24,DEBIT,Salaries Payable,9113.52,Liability,1932
+1/15/24,CREDIT,Utilities Expense,9113.52,Asset,1933
+12/22/24,DEBIT,Common Stock,6768.22,Equity,1934
+12/22/24,CREDIT,Retained Earnings,6768.22,Equity,1935
+2/11/24,DEBIT,Cash,2396.7,Asset,1936
+2/11/24,CREDIT,Inventory,2396.7,Asset,1937
+12/27/24,DEBIT,Accounts Receivable,7876.23,Asset,1938
+12/27/24,CREDIT,Accounts Payable,7876.23,Liability,1939
+6/5/24,DEBIT,Sales Revenue,3324.13,Asset,1940
+6/5/24,CREDIT,Cost of Goods Sold Expense,3324.13,Asset,1941
+2/12/24,DEBIT,Salaries Expense,5618.15,Asset,1942
+2/12/24,CREDIT,Salaries Payable,5618.15,Liability,1943
+5/22/24,DEBIT,Utilities Expense,2305.73,Asset,1944
+5/22/24,CREDIT,Common Stock,2305.73,Equity,1945
+12/12/24,DEBIT,Retained Earnings,7652.27,Equity,1946
+12/12/24,CREDIT,Cash,7652.27,Asset,1947
+7/13/24,DEBIT,Inventory,9440.8,Asset,1948
+7/13/24,CREDIT,Accounts Receivable,9440.8,Asset,1949
+2/18/24,DEBIT,Accounts Payable,114.59,Liability,1950
+2/18/24,CREDIT,Sales Revenue,114.59,Asset,1951
+2/12/24,DEBIT,Cost of Goods Sold Expense,7069.31,Asset,1952
+2/12/24,CREDIT,Salaries Expense,7069.31,Asset,1953
+9/21/24,DEBIT,Salaries Payable,1527.53,Liability,1954
+9/21/24,CREDIT,Utilities Expense,1527.53,Asset,1955
+8/27/24,DEBIT,Common Stock,9031.31,Equity,1956
+8/27/24,CREDIT,Retained Earnings,9031.31,Equity,1957
+11/3/24,DEBIT,Cash,4361.43,Asset,1958
+11/3/24,CREDIT,Inventory,4361.43,Asset,1959
+9/27/24,DEBIT,Accounts Receivable,9069.76,Asset,1960
+9/27/24,CREDIT,Accounts Payable,9069.76,Liability,1961
+8/3/24,DEBIT,Sales Revenue,6618.74,Asset,1962
+8/3/24,CREDIT,Cost of Goods Sold Expense,6618.74,Asset,1963
+10/6/24,DEBIT,Salaries Expense,4423.77,Asset,1964
+10/6/24,CREDIT,Salaries Payable,4423.77,Liability,1965
+1/27/24,DEBIT,Utilities Expense,8995.72,Asset,1966
+1/27/24,CREDIT,Common Stock,8995.72,Equity,1967
+5/9/24,DEBIT,Retained Earnings,716,Equity,1968
+5/9/24,CREDIT,Cash,716,Asset,1969
+2/7/24,DEBIT,Inventory,3573.26,Asset,1970
+2/7/24,CREDIT,Accounts Receivable,3573.26,Asset,1971
+3/19/24,DEBIT,Accounts Payable,4513.23,Liability,1972
+3/19/24,CREDIT,Sales Revenue,4513.23,Asset,1973
+11/15/24,DEBIT,Cost of Goods Sold Expense,3584.07,Asset,1974
+11/15/24,CREDIT,Salaries Expense,3584.07,Asset,1975
+7/2/24,DEBIT,Salaries Payable,4432.43,Liability,1976
+7/2/24,CREDIT,Utilities Expense,4432.43,Asset,1977
+1/19/24,DEBIT,Common Stock,6622.76,Equity,1978
+1/19/24,CREDIT,Retained Earnings,6622.76,Equity,1979
+1/14/24,DEBIT,Cash,8081.42,Asset,1980
+1/14/24,CREDIT,Inventory,8081.42,Asset,1981
+5/8/24,DEBIT,Accounts Receivable,4367.36,Asset,1982
+5/8/24,CREDIT,Accounts Payable,4367.36,Liability,1983
+4/14/24,DEBIT,Sales Revenue,7470.31,Asset,1984
+4/14/24,CREDIT,Cost of Goods Sold Expense,7470.31,Asset,1985
+2/10/24,DEBIT,Salaries Expense,6611.57,Asset,1986
+2/10/24,CREDIT,Salaries Payable,6611.57,Liability,1987
+10/16/24,DEBIT,Utilities Expense,2638.77,Asset,1988
+10/16/24,CREDIT,Common Stock,2638.77,Equity,1989
+8/17/24,DEBIT,Retained Earnings,6362.68,Equity,1990
+8/17/24,CREDIT,Cash,6362.68,Asset,1991
+8/18/24,DEBIT,Inventory,4460.09,Asset,1992
+8/18/24,CREDIT,Accounts Receivable,4460.09,Asset,1993
+10/24/24,DEBIT,Accounts Payable,5108.11,Liability,1994
+10/24/24,CREDIT,Sales Revenue,5108.11,Asset,1995
+5/3/24,DEBIT,Cost of Goods Sold Expense,1051.14,Asset,1996
+5/3/24,CREDIT,Salaries Expense,1051.14,Asset,1997
+11/21/24,DEBIT,Salaries Payable,6903.73,Liability,1998
+11/21/24,CREDIT,Utilities Expense,6903.73,Asset,1999
+6/26/24,DEBIT,Common Stock,8346.71,Equity,2000
+6/26/24,CREDIT,Retained Earnings,8346.71,Equity,2001
