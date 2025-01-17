@@ -6,6 +6,7 @@ Run the program, generates reports!
 ### Key Features:
  - Receives .csv GAAP compliant ledger.
  - Detailed Balance Sheet for end of month reporting.
+ - Year end Balance Sheet for consolidated reporting
  - Detailed Income Summary for monthly budget reporting.
  - Outputs HTML for ease of viewing, printing and storing.
 
