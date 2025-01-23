@@ -3,6 +3,9 @@ Python automated accounting reports
 
 Run the program, generates reports! 
 
+### Updates
+ - New Visual! Account Forecast Calendar can project the balance of an account based on given deposits and withdraw schedule.
+
 ### Key Features:
  - Receives .csv GAAP compliant ledger.
  - Detailed Balance Sheet for end of month reporting.
