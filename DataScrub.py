@@ -4,8 +4,6 @@ import re
 # TO DO:
 # ensure columns are adjusted for caps. ie: doesn't matter if date or Date
 # experiement with split_df to take logic as an input for reusability line 29 & 150
-# Fix index issue within clean_df, the ic_final, and bs_final reset_index at the bottom.
-# Balance sheet totals do not show cumulative sums, only sums of the month which has zeros for empty cells. 
 
 def adj_credits_debit(row):
     """
