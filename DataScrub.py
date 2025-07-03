@@ -221,7 +221,7 @@ def clean_df(df: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
         equity_items = bs_pivot[bs_pivot['Type'] == 'Equity'].copy()
         equity_items.drop(columns=['Type'], inplace=True)
         equity_items.set_index('Account', inplace=True)
-        equity_items = pd.concat([net_income, equity_items])
+        equity_items = pd.concat([net_income.cumsum(axis=1), equity_items])
 
         # Calculate totals for each section
         total_assets = make_total_row(asset_items, numeric_cols, 'Total Assets')
