@@ -125,9 +125,6 @@ def clean_df(df: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
             fill_value=0
             ).reset_index()
 
-        # Ensure the pivot table has numeric columns as absolute values
-        ic_pivot[numeric_cols(ic_pivot)] = ic_pivot[numeric_cols(ic_pivot)].abs()
-
         def calc_net_income(ic_pivot):
             """
             Calculate net income from the income statement pivot table.
@@ -142,7 +139,7 @@ def clean_df(df: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
             month_cols = ic_pivot.select_dtypes(include='number').columns
             revenues = ic_pivot[ic_pivot['Category'] == 'Revenue'][month_cols].sum()
             expenses = ic_pivot[ic_pivot['Category'] == 'Expense'][month_cols].sum()
-            net_income = revenues - expenses
+            net_income = revenues + expenses
             return pd.DataFrame([net_income])
 
         def split_expenses_revenues(ic_pivot): # Could optimize split_df to take reason as an input for reusability
@@ -174,7 +171,7 @@ def clean_df(df: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
 
         # Concatenate in order: revenues, revenue total, expenses, expense total, net income
         ic_final = pd.concat(
-            [ic_revenues, revenue_totals, ic_expenses, expense_totals, net_income_pivot], 
+            [ic_revenues, revenue_totals, -ic_expenses, -expense_totals, net_income_pivot], 
             keys = ['Revenues', '', 'Expenses', '', 'Net Income']
             )
 
