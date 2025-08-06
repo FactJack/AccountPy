@@ -92,7 +92,7 @@ Empower accounting professionals to manage ledgers without restrictive software,
 ## 🆕 Updates
 
 - **7.2.2025:**  
-  - Complete backend logic redesign for accurate balances and cumulative totals.
+  - V2 Release. Complete backend logic redesign for accurate balances and cumulative totals.
   - Modular, polymorphic functions for easier development.
   - Preview UI with PDF export.
 
@@ -100,6 +100,7 @@ Empower accounting professionals to manage ledgers without restrictive software,
 
 ## 🗺️ Roadmap
 
+- V3: move from procedural to object-oreinted (`Transaction`, `Account` and `Ledger` classes) for building expanded reports, program GAAP rules into methods and scaling.
 - Statement of Cash Flows
 - Visualizations:
   - Income bar chart with comparative liability payments
